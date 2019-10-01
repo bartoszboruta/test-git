@@ -9,9 +9,11 @@ import Hello from "./Hello";
 function App() {
   return (
     <div className="App">
+      <div>1231321</div>
       <ComponentDawid/>
       <Hello />
       <Header />
+      <div>32412214124</div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
