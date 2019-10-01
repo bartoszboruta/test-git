@@ -1,16 +1,15 @@
 import React from "react";
-
-import logo from "./logo.svg";
-
-import "./App.css";
+import logo from './logo.svg';
+import './App.css';
 
 import Header from "./Header";
-
+import ComponentDawid from './ComponentDawid'
 import Hello from "./Hello";
 
 function App() {
   return (
     <div className="App">
+      <ComponentDawid/>
       <Hello />
       <Header />
       <header className="App-header">
@@ -24,7 +23,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React :)
         </a>
       </header>
     </div>
