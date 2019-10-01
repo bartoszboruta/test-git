@@ -9,7 +9,7 @@ import Hello from "./Hello";
 function App() {
   return (
     <div className="App">
-      <div>1231321</div>
+      <div>121312231321</div>
       <ComponentDawid/>
       <Hello />
       <Header />
